@@ -27,4 +27,31 @@ The data set used for the music recommendation system is the Last.fm dataset is 
 * Then the music recommender will choose the random 30 songs out of 2513 classified songs to give the music according to the user’s mood. Hence with the use of classifier and a trained model we can get recommended songs as per the mood detected.
 
 
+## Advantages
+
+• Easy implementation and a handy web application
+• Since the dataset used is last-FM gives access to videos and various songs at the same time.
+• Reliable, accurate, and fast web app.
+• Since the use of relu reduces the chances of giving inadequate or wrong recommendations
+
+## Disadvantages and shortcomings:
+
+• The application is completely dependent on the internet.
+• A proper vision to the camera is necessary as image detection should be proper. If the user is in the
+dark place the app will not be handy.
+• Only those songs in the dataset are available the others should be reached out by the user itself.
+
+## Future scpoe of the project:
+
+* Developing real time application so that actual users would be able to use it.
+* Making the project music recommend based on giving voice.
+*  Extracting songs from third party API in real time.
+* Deploying this application in any cloud platform such as Azure, Google app engine etc.
+* Making use of containerization with Docker containers or Kubernetes clusters
+
+
+
+
+
+
 
