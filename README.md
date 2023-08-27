@@ -48,7 +48,18 @@ The data set used for the music recommendation system is the Last.fm dataset is 
 * Deploying this application in any cloud platform such as Azure, Google app engine etc.
 * Making use of containerization with Docker containers or Kubernetes clusters
 
+## Outputs
 
+<img src="./fc.png" alt="Image" width = "700">
+
+
+<img src="./hp.png" alt="Image" width = "700">
+
+
+<img src="./hp2.png" alt="Image" width = "700">
+
+
+<img src="./lfm.png" alt="Image" width = "700">
 
 
 
