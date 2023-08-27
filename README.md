@@ -14,6 +14,10 @@ Music plays a very important role in everyday life of a human being. Music has a
 * keras
 * collection
 
+## Dataset
+
+The data set used for the music recommendation system is the Last.fm dataset is a publicly available dataset that contains listening histories of Last.fm users. The dataset includes information such as the artist’s name and song title. This dataset can be used for music recommendation based on the listening history of a user.
+
 
 
 
