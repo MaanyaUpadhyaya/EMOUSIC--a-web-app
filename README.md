@@ -29,17 +29,16 @@ The data set used for the music recommendation system is the Last.fm dataset is 
 
 ## Advantages
 
-• Easy implementation and a handy web application
-• Since the dataset used is last-FM gives access to videos and various songs at the same time.
-• Reliable, accurate, and fast web app.
-• Since the use of relu reduces the chances of giving inadequate or wrong recommendations
+* Easy implementation and a handy web application
+* Since the dataset used is last-FM gives access to videos and various songs at the same time.
+* Reliable, accurate, and fast web app.
+* Since the use of relu reduces the chances of giving inadequate or wrong recommendations
 
 ## Disadvantages and shortcomings:
 
-• The application is completely dependent on the internet.
-• A proper vision to the camera is necessary as image detection should be proper. If the user is in the
-dark place the app will not be handy.
-• Only those songs in the dataset are available the others should be reached out by the user itself.
+* The application is completely dependent on the internet.
+* A proper vision to the camera is necessary as image detection should be proper. If the user is in the dark place the app will not be handy.
+* Only those songs in the dataset are available the others should be reached out by the user itself.
 
 ## Future scpoe of the project:
 
